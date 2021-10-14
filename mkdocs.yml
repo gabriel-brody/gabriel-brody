@@ -5,7 +5,8 @@ nav:
     - Home: index.md
     - About: about.md
 
-theme: material
+theme:
+  name: material
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
