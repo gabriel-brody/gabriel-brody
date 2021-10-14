@@ -1,10 +1,6 @@
 site_name: My Docs
 site_url: https://gabriel-brody.github.io/pages/
 
-nav:
-    - Home: index.md
-    - About: about.md
-
 theme:
   name: material
   font:
@@ -14,3 +10,11 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+
+extra_css:
+ - stylesheets/extra.css
+
+
+nav:
+  - Home: index.md
+  - About: about.md
