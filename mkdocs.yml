@@ -1,6 +1,6 @@
 site_name: My Docs
 site_url: https://gabriel-brody.github.io/pages/
-repo_url: https://github.com/gabriel-brody/pages
+#repo_url: https://github.com/gabriel-brody/pages
 
 theme:
   name: material
