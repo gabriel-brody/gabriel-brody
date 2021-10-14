@@ -1,0 +1,38 @@
+:root > * {
+    --md-typeset-a-color: #3498db;
+}
+@media only screen and (min-width: 76.25em) {
+  .md-main__inner {
+    max-width: 80rem;
+  }
+  .md-sidebar--primary {
+    width: 14.2rem;
+  }
+}
+
+@media screen and (min-width: 60em)  {
+  .md-header__source{
+    width: 5.7rem;
+  }
+}
+
+.sos-feedback-icon {
+  width: 4rem;
+}
+
+.sos-feedback-text {
+  margin-left: -1.7rem;
+  display: inline-block;
+  max-width: calc(100% - 1.2rem);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5 {
+  font-weight: bold;
+}
