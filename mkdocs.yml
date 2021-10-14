@@ -1,2 +1,8 @@
 site_name: My Docs
 site_url: https://gabriel-brody.github.io/pages/
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: readthedocs
