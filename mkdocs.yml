@@ -6,3 +6,6 @@ nav:
     - About: about.md
 
 theme: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
