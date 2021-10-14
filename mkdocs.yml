@@ -7,6 +7,6 @@ nav:
 
 theme:
   name: material
-  font:
-    text: IBM Plex Sans
-    code: IBM Plex Mono
+  #font:
+  #  text: IBM Plex Sans
+  #  code: IBM Plex Mono
