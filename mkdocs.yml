@@ -18,6 +18,30 @@ plugins:
   - search
 
 
+markdown_extensions: 
+  - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - toc:
+      permalink: true
+      separator: "-"
+  - pymdownx.highlight
+  - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.magiclink
+
+
 nav:
   - Home: index.md
   - About: about.md
