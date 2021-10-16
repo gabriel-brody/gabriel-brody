@@ -10,4 +10,4 @@
 
 ###### Six hashtags.
 
-####### Seven hashtags.
+No hashtags.
