@@ -46,3 +46,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
+  - My Page: my_page.md
