@@ -5,5 +5,6 @@ nav:
   - Home: index.md
   - Encanador: encanador.md
   - Eletricista: eletricista.md
+  - Piscineiro: piscineiro.md
 
 theme: readthedocs
