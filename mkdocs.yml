@@ -21,4 +21,10 @@ nav:
   - Piscineiro: piscineiro.md
   - Table: table.md
 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/squidfunk
+
+
 theme: material
