@@ -9,5 +9,6 @@ nav:
   - Eletricista: eletricista.md
   - Jardineiro: jardineiro.md
   - Piscineiro: piscineiro.md
+  - Table: table.md
 
 theme: material
