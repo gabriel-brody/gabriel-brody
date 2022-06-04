@@ -8,4 +8,4 @@ nav:
   - Jardineiro: jardineiro.md
   - Piscineiro: piscineiro.md
 
-theme: mkdocs-materia
+theme: mkdocs-material
