@@ -2,8 +2,6 @@ site_name: Lista de Prestadores
 
 markdown_extensions:
   - tables
-
-markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
