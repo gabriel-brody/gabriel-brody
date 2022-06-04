@@ -13,7 +13,7 @@ extra_javascript:
   - javascripts/tablesort.js
 
 nav:
-  - encanador.md
+  - Encanador: encanador.md
   - Eletricista: eletricista.md
   - Jardineiro: jardineiro.md
   - Piscineiro: piscineiro.md
