@@ -1,5 +1,3 @@
-## Encanador
-
 Nome | Telefone
 - | -
 João | (11) 99999-9999
