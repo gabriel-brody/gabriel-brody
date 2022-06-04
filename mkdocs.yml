@@ -1,6 +1,5 @@
 site_name: Lista de Prestadores
 
-
 nav:
   - Home: index.md
   - Encanador: encanador.md
