@@ -15,10 +15,10 @@ extra_javascript:
 
 
 nav:
-  - Encanador: encanador.md
-  - Eletricista: eletricista.md
-  - Jardineiro: jardineiro.md
-  - Piscineiro: piscineiro.md
-  - Table: table.md
+  - Advogado: advogado.md
+  - Alimentos: alimentos.md
+  - Aquecedor: aquecedor.md
+  - Ar Condicionado: ar-condicionado.md
+  - Sem Formatação: all.md
 
 theme: material
