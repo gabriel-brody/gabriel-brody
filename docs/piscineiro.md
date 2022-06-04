@@ -1,5 +1,3 @@
-## Piscineiro
-
 Nome | Telefone
 - | -
 Mauro | (11) 22222-2222

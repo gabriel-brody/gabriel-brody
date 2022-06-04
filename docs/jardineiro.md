@@ -1,5 +1,3 @@
-## Jardineiro
-
 Nome | Telefone
 - | -
 Pedro | (19) 12345-0987

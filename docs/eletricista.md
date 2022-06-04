@@ -1,5 +1,3 @@
-## Eletricista
-
 Nome | Telefone
 - | -
 Caio | (11) 55555-5555

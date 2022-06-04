@@ -1,10 +1,13 @@
 site_name: Lista de Prestadores
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
 nav:
-  - Home: index.md
   - Encanador: encanador.md
   - Eletricista: eletricista.md
   - Jardineiro: jardineiro.md
   - Piscineiro: piscineiro.md
 
-theme: windmill
+theme: material
