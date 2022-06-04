@@ -18,7 +18,7 @@ nav:
   - Advogado: advogado.md
   - Alimentos: alimentos.md
   - Aquecedor: aquecedor.md
-  - Ar Condicionado: ar-condicionado.md
+  - Ar Condicionado: ar_condicionado.md
   - Sem Formatação: all.md
 
 theme: material
