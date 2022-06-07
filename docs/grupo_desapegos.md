@@ -1,0 +1,3 @@
+| Tipo de Prestador | Nome PF ou PJ                                                                                        | Contato Referencia | Telefone | Indicação       | Observ. |
+| ----------------- | ---------------------------------------------------------------------------------------------------- | ------------------ | -------- | --------------- | ------- |
+| Grupo desapegos   | [https://chat.whatsapp.com/FNxEs1lL4GN1JWKk7P600c](https://chat.whatsapp.com/FNxEs1lL4GN1JWKk7P600c) |                    |          | Andreia Bergamo |         |

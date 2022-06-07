@@ -50,6 +50,13 @@ nav:
   - Espelhos: espelho.md
   - Exames Laboratoriais: laboratorio.md
   - Farmácia: farmacia.md
-  
+  - Gás: gas.md
+  - Grupo Desapegos: grupo_desapegos.md
+  - Hidráulica: hidraulica.md
+  - Informática: informatica.md
+  - Internet: internet.md
+  - Jardim: jardim.md
+
+
 
 theme: material
