@@ -15,10 +15,25 @@ extra_javascript:
   - javascripts/tablesort.js
 
 nav:
+  - Lista Completa: all.md
   - Advogado: advogado.md
   - Alimentos: alimentos.md
   - Aquecedor: aquecedor.md
   - Ar Condicionado: ar_condicionado.md
-  - Sem Formatação: all.md
+  - Arquiteto: arquiteto.md
+  - Aspirador de Pó: aspiradort.md
+  - Assistência Técnica: assist_tecnica.md
+  - Áudio: audio.md
+  - Auto Escola: auto_escola.md
+  - Barbearia: barbearia.md
+  - Bebidas: bebidas.md
+  - Buffet: buffet.md
+  - Calhas: calhas.md
+  - Churrasco: churrasco.md
+  - Construtor: construtor.md
+  - Corretor de Imóveis: corretor_imoveis.md
+  - Cortinas: cortinas.md
+  - Engenheiro Calculista: eng_calculista.md
+  - Stogare: storage.md
 
 theme: material
