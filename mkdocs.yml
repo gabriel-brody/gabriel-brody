@@ -43,6 +43,13 @@ nav:
   - Despachante: despachante.md
   - Diarista: diarista.md
   - Doação: doacao.md
+  - Doces: doces.md
+  - Eletricista: eletricista.md
+  - Encanador: encanador.md
+  - Energia Solar: energia_solar.md
+  - Espelhos: espelho.md
+  - Exames Laboratoriais: laboratorio.md
+  - Farmácia: farmacia.md
   
 
 theme: material
