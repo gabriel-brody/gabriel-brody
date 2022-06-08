@@ -48,7 +48,6 @@ nav:
   - Encanador: encanador.md
   - Energia Solar: energia_solar.md
   - Espelhos: espelho.md
-  - Exames Laboratoriais: laboratorio.md
   - Farmácia: farmacia.md
   - Gás: gas.md
   - Grupo Desapegos: grupo_desapegos.md
@@ -56,7 +55,6 @@ nav:
   - Informática: informatica.md
   - Internet: internet.md
   - Jardim: jardim.md
-
-
+  - Laboratório: laboratorio.md
 
 theme: material
