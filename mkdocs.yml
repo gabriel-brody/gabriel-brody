@@ -1,5 +1,7 @@
 site_name: Lista de Prestadores
 
+theme: material
+
 markdown_extensions:
   - tables
   - attr_list
@@ -53,7 +55,6 @@ nav:
   - Gás: gas.md
   - Grupo Desapegos: grupo_desapegos.md
   - Hidráulica: hidraulica.md
-  - Imóveis: imoveis.md
   - Informática: informatica.md
   - Internet: internet.md
   - Jardim: jardim.md
@@ -86,7 +87,4 @@ nav:
   - Toldos: toldos.md
   - Transporte: transporte.md
   - Vacinas: vacinas.md
-
-
-
-theme: material
+  
