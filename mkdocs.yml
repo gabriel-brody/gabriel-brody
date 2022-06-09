@@ -52,9 +52,39 @@ nav:
   - Gás: gas.md
   - Grupo Desapegos: grupo_desapegos.md
   - Hidráulica: hidraulica.md
+  - Imóveis: imoveis.md
   - Informática: informatica.md
   - Internet: internet.md
   - Jardim: jardim.md
   - Laboratório: laboratorio.md
+  - Lavanderia: lavanderia.md
+  - Limpeza: limpeza.md
+  - Marcenaria: marcenaria.md
+  - Marmoraria: marmoraria.md
+  - Massagista: massagista.md
+  - Médico: medico.md
+  - Mudança: mudanca.md
+  - Padaria: padaria.md
+  - Passadeira: passadeira.md
+  - Pedreiro: pedreiro.md
+  - Personal Organizer: personal_org.md
+  - Pet: pet.md
+  - Pilates: pilates.md
+  - Pintor: pintor.md
+  - Piscina: piscina.md
+  - Pizza: pizza.md
+  - Podóloga: podologa.md
+  - Projetos: projetos.md
+  - Salas: sala.md
+  - Segurança: seguranca.md
+  - Seguros: seguros.md
+  - Serralheria: serralheria.md
+  - Tapeçaria: tapecaria.md
+  - Telas de Proteção: telas.md
+  - Toldos: toldos.md
+  - Transporte: transporte.md
+  - Vacinas: vacinas.md
+
+
 
 theme: material
