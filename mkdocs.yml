@@ -17,6 +17,7 @@ extra_javascript:
   - javascripts/tablesort.js
 
 nav:
+  - Home: index.md
   - Lista Completa: all.md
   - Advogado: advogado.md
   - Alimentos: alimentos.md
